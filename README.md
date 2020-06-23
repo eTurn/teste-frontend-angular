@@ -62,7 +62,7 @@ Sua missão é criar uma página com função de  listar, detalhar e calcular no
 # Proposta de layout
 ![picture alt](https://github.com/eTurn/teste-frontend-angularjs/blob/master/arquivos/Wireframe/pagina_looks.jpg "Wireframe")
 
-## paleta de cores
+## Paleta de cores
 Sugestão de paleta de cores e tipografia 
 ![picture alt](https://github.com/eTurn/teste-frontend-angularjs/blob/master/arquivos/Wireframe/paleta_cores.jpg "Wireframe")
 
