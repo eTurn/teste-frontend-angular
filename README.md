@@ -51,5 +51,5 @@ Sua missão é criar uma página com função de  listar, detalhar e calcular no
 
 ## Regras
 * É permitido realizar pesquisas na internet
-* É **permitido** o uso de framework CSS
+* É permitido o uso de framework CSS (da sua escolha)
 * Na parte de JS deve ser utilizado **AngularJS**
