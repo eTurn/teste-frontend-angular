@@ -19,7 +19,7 @@ Este teste tem como objetivo avaliar e desafiar você. Não é obrigatório real
 * Task Runners (desejável)
 
 # Desafio 
-Sua missão é criar uma página com função de  listar, detalhar e calcular nota média de *looks* em uma loja virtual.
+Sua missão é criar uma página com função de  listar, detalhar e calcular nota média de *looks* usando uma API externa em uma loja virtual.
 
 ## Requisitos
 * Usuário terá a capacidade de filtrar por disponível/indisponível, faixa de preço e categoria
