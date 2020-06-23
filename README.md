@@ -53,3 +53,16 @@ Sua missão é criar uma página com função de  listar, detalhar e calcular no
 * É permitido realizar pesquisas na internet
 * É permitido o uso de framework CSS (da sua escolha)
 * Na parte de JS deve ser utilizado **AngularJS**
+
+
+# Artefatos para entrega
+Envie um arquivo comprimido .rar contendo o código fonte e um arquivo README.md explicando o passo a passo de como podemos inicializar e visualizar seu projeto.
+
+Você pode utilizar recursos ou bibliotecas de terceiros que achar convenientes para o cenário dado. Liste estas bibliotecas no arquivo README e uma explicação breve de por quê utilizou cada uma.
+
+Desenvolva para browsers modernos e teste neles. Aconselhamos realizar testes no Chrome, Firefox e Safari.
+
+**IMPORTANTE**
+Não comite seu código em nenhum repositório público.
+
+***Boa sorte***
