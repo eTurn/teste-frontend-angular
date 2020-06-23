@@ -67,7 +67,7 @@ Sugestão de paleta de cores e tipografia
 ![picture alt](https://github.com/eTurn/teste-frontend-angularjs/blob/master/arquivos/Wireframe/paleta_cores.jpg "Wireframe")
 
 # Artefatos para entrega
-Envie um arquivo comprimido .rar contendo o código fonte e um arquivo README.md explicando o passo a passo de como podemos inicializar e visualizar seu projeto.
+Envie um arquivo comprimido em formato **.rar**  para o e-mail *vagas@eturn.com.br* contendo o código fonte e um arquivo README.md explicando o passo a passo de como podemos inicializar e visualizar seu projeto.
 
 Você pode utilizar recursos ou bibliotecas de terceiros que achar convenientes para o cenário dado. Liste estas bibliotecas no arquivo README e uma explicação breve de por quê utilizou cada uma.
 
