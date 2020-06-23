@@ -37,7 +37,7 @@ Sua missão é criar uma página com função de  listar, detalhar e calcular no
    * Look item
      * Imagem (Exibir a imagem com flag **destacada = true**)
      * Nome do look
-     * Cateogoria 
+     * Categoria 
      * Nota média (calcular via api)
      * Preço médio
      * Disponibilidade
