@@ -54,7 +54,17 @@ Sua missão é criar uma página com função de  listar, detalhar e calcular no
 * É permitido realizar pesquisas na internet
 * É permitido o uso de framework CSS (da sua escolha)
 * Na parte de JS deve ser utilizado **AngularJS**
+* Os dados para serem exibidos devem ser lidos do arquivo *produtos.js* localizado dentro da pasta *data*
+* As imagens existentes no arquivo produtos.js estão na pasta *arquivos/produtos*
 
+
+
+# Proposta de layout
+![picture alt](https://github.com/eTurn/teste-frontend-angularjs/blob/master/arquivos/Wireframe/pagina_looks.jpg "Wireframe")
+
+## paleta de cores
+Sugestão de paleta de cores
+![picture alt](https://github.com/eTurn/teste-frontend-angularjs/blob/master/arquivos/Wireframe/paleta_cores.jpg "Wireframe")
 
 # Artefatos para entrega
 Envie um arquivo comprimido .rar contendo o código fonte e um arquivo README.md explicando o passo a passo de como podemos inicializar e visualizar seu projeto.
