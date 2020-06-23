@@ -27,6 +27,28 @@ Sua missão é criar uma página com função de  listar, detalhar e calcular no
 * Nota média deve ser calculada utilizando a API math.js. A nota mínima é **1** e máxima é **5**
   * Para usar a API deve ser feito um GET para a API http://api.mathjs.org/v4 e deve ser enviado como **parâmetro** a seguinte estrutura: `{ expr=sum(2,1,2) / 3}` onde **2,1,2** são as notas recebidas para o look e **3** é a quantidade de notas recebidas. Para este exemplo o total é de: 1.6666666666666667. O valor deve ser arredondado para 1 casa decimal, no exemplo ficaria 1.6 e então marcar a nota média do look.
 
+## Estrutura da página
+* Principal
+ * Filtro (Consultas **client side**)
+  * Disponível 
+  * Preço 
+  * Categorias
+* Sessão resultados
+ * Look item
+  * Imagem (Exibir a imagem com flag **destacada = true**)
+  * Nome do look
+  * Cateogoria 
+  * Nota média (calcular via api)
+  * Preço médio
+  * Disponibilidade
+  * Saiba mais (Abrir sessão detalhes)
+ * Detalhes
+  * Imagens (Exibir lista de imagens navegável)
+  * Nome do look
+  * Nota média (Obter o valor já calculado ou calcular novamente, fica a critério)
+  * Texto
+  
+
 ## Regras
 * É permitido realizar pesquisas na internet
 * É **permitido** o uso de framework CSS
