@@ -73,6 +73,26 @@ Você pode utilizar recursos ou bibliotecas de terceiros que achar convenientes 
 
 Desenvolva para browsers modernos e teste neles. Aconselhamos realizar testes no Chrome, Firefox e Safari.
 
+# O que será analisado no código?
+## 1. Layout: 
+1.1 Foram utilizadas as cores da paleta? 
+1.2 O layout está em uma qualidade satisfatória para liberação em ambiente de produção?
+1.3 Foram adicionados recursos de navegação (Exibição da tela de detahe de cada look)?
+1.4 Foi implantado algum slider para exibir o detalhe do look?
+1.5 O valor numérico do preço médio foi convertido para cifrões (conforme wireframe) no layout?
+1.6 A nota média foi convertida para estrelinhas (conforme wireframe) no layout?
+1.7 A disponibilidade de cada produto ficou destacada facilitando a identifação?
+
+## 2. Código:
+2.1 Os dados dos produtos foram obtidos através de código?
+2.2 Os dados para preenchimento do filtro foram obtidos através de código?
+2.3 Os filtros estão funcionando de forma correta?
+2.4 Limpar filtro está exibindo novamente os dados que haviam sido filtrados?
+2.5 Foi utilizada a API recomendada para fazer o cálculo da nota?
+2.6 O cálculo da nota ficou correto?
+2.7 Foram utilizadas boas práticas de desenvolvimento?
+
+
 **IMPORTANTE**
 Não comite seu código em nenhum repositório público.
 
