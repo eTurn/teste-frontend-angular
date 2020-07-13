@@ -88,8 +88,8 @@ Desenvolva para browsers modernos e teste neles. Aconselhamos realizar testes no
 * 2.2 Os dados para preenchimento do filtro foram obtidos através de código?
 * 2.3 Os filtros estão funcionando de forma correta?
 * 2.4 Limpar filtro está exibindo novamente os dados que haviam sido filtrados?
-* 2.5 Foi utilizada a API recomendada para fazer o cálculo da nota?
-* 2.6 O cálculo da nota ficou correto?
+* 2.5 Na tela principal foi exibida a imagem marcada como destacada no arquivo?
+* 2.6 Foi utilizada a API recomendada para fazer o cálculo da nota?
 * 2.7 Foram utilizadas boas práticas de desenvolvimento?
 
 
