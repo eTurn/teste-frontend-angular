@@ -90,7 +90,8 @@ Desenvolva para browsers modernos e teste neles. Aconselhamos realizar testes no
 * 2.4 Limpar filtro está exibindo novamente os dados que haviam sido filtrados?
 * 2.5 Na tela principal foi exibida a imagem marcada como destacada no arquivo?
 * 2.6 Foi utilizada a API recomendada para fazer o cálculo da nota?
-* 2.7 Foram utilizadas boas práticas de desenvolvimento?
+* 2.7 Foi obtida a imagem destacada de forma correta?
+* 2.8 Foram utilizadas boas práticas de desenvolvimento?
 
 
 **IMPORTANTE**
