@@ -81,7 +81,7 @@ Desenvolva para browsers modernos e teste neles. Aconselhamos realizar testes no
 * 1.4 Foi implantado algum slider para exibir o detalhe do look?
 * 1.5 O valor numérico do preço médio foi convertido para cifrões (conforme wireframe) no layout?
 * 1.6 A nota média foi convertida para estrelinhas (conforme wireframe) no layout?
-* 1.7 A disponibilidade de cada produto ficou destacada facilitando a identifação?
+* 1.7 A disponibilidade de cada produto ficou destacada facilitando a identificação?
 
 ## 2. Código:
 * 2.1 Os dados dos produtos foram obtidos através de código?
