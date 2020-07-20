@@ -77,7 +77,7 @@ Desenvolva para browsers modernos e teste neles. Aconselhamos realizar testes no
 ## 1. Layout: 
 * 1.1 Foram utilizadas as cores da paleta? 
 * 1.2 O layout está em uma qualidade satisfatória para liberação em ambiente de produção?
-* 1.3 Foram adicionados recursos de navegação (Exibição da tela de detahe de cada look)?
+* 1.3 Foram adicionados recursos de navegação (Exibição da tela de detalhe de cada look)?
 * 1.4 Foi implantado algum slider para exibir o detalhe do look?
 * 1.5 O valor numérico do preço médio foi convertido para cifrões (conforme wireframe) no layout?
 * 1.6 A nota média foi convertida para estrelinhas (conforme wireframe) no layout?
@@ -90,8 +90,7 @@ Desenvolva para browsers modernos e teste neles. Aconselhamos realizar testes no
 * 2.4 Limpar filtro está exibindo novamente os dados que haviam sido filtrados?
 * 2.5 Na tela principal foi exibida a imagem marcada como destacada no arquivo?
 * 2.6 Foi utilizada a API recomendada para fazer o cálculo da nota?
-* 2.7 Foi obtida a imagem destacada de forma correta?
-* 2.8 Foram utilizadas boas práticas de desenvolvimento?
+* 2.7 Foram utilizadas boas práticas de desenvolvimento?
 
 
 **IMPORTANTE**
