@@ -1,4 +1,4 @@
-# Teste de frontend AngularJS e-turn sistemas
+# Teste de frontend Angular e-turn sistemas
 
 Olá Dev! Tudo bem?
 
