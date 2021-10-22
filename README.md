@@ -14,7 +14,7 @@ Este teste tem como objetivo avaliar e desafiar você. Não é obrigatório real
 * Less/SASS
 * Responsive Web Design
 * JavaScript
-* AngularJS
+* Angular
 * Experiência em controle de versão com **Git**
 * Task Runners (desejável)
 
